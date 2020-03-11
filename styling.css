@@ -1,5 +1,79 @@
 .nav_background{
 
-    background-color: #212121;
+    color: #212121;
 
 }
+
+.image_size{
+
+  width: 204px;
+
+}
+
+.footer_background{
+
+     background-color: #212121;
+
+}
+
+.footer{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+}
+.footer h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin: 25px 0;
+
+}
+.footer p{
+    font-size:12px;
+}
+
+.footer hr{
+    margin-top:10px;
+    background-color: #ccc;
+}
+
+/* External */
+.overlay-right .fa{
+    cursor: pointer;
+    background-color:black;
+    color:white;
+    height: 35px;
+    width:35px;
+    font-size: 20px;
+    padding:7px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.product-bottom .fa {
+    color: orange;
+    font-size: 10px;
+}
+.product-bottom h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.product-bottom h5{
+    font-size: 15px;
+    padding-bottom: 10px;
+
+}
+.product-top img{
+    height: 270px;
+    width: 100%;
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  
