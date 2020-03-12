@@ -1,0 +1,151 @@
+.nav_background{
+
+    color: #212121;
+
+}
+
+.image_size{
+
+  width: 204px;
+
+}
+
+.footer_background{
+
+     background-color: #212121;
+
+}
+
+.footer{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+}
+.footer h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin: 25px 0;
+
+}
+.footer p{
+    font-size:12px;
+}
+
+.footer hr{
+    margin-top:10px;
+    background-color: #ccc;
+}
+
+/* External */
+.overlay-right .fa{
+    cursor: pointer;
+    background-color:black;
+    color:white;
+    height: 35px;
+    width:35px;
+    font-size: 20px;
+    padding:7px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.product-bottom .fa {
+    color: orange;
+    font-size: 10px;
+}
+.product-bottom h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.product-bottom h5{
+    font-size: 15px;
+    padding-bottom: 10px;
+
+}
+.product-top img{
+    height: 270px;
+    width: 100%;
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  .logo-shop-now {
+    display: block;
+    border-top: solid 1px #efefef;
+    margin: 0;
+    padding: 5px 10px;
+  }
+
+  
+
+
+  /* btn */
+  .product-list .product-item .logo-shop-now .btn-shopnow {
+    background: #2f3031;
+    color: #fff;
+}
+
+.product-list .product-item .logo-shop-now .btn-shopnow {
+    float: right;
+    background: #f7f7f7;
+    border-bottom: solid 1px #d5d5d5;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: none;
+    padding: 5px 15px;
+}
+
+.btn.btn-shopnow {
+    display: inline-block;
+    padding: 8px 15px;
+    background: #ecf0f1;
+    text-transform: uppercase;
+    color: #2f3031;
+    font-weight: 700;
+    border-radius: 3px;
+}
+
+.btn, a, button, li, p, span, ul {
+    list-style: none;
+    transition: ease-in-out .5s;
+    -webkit-transition: ease-in-out .5s;
+    -o-transition: ease-in-out .5s;
+    -ms-transition: ease-in-out .5s;
+}
+
+
+
+.btn.btn-primery, .ripplelink {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
